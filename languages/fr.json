@@ -1,0 +1,62 @@
+{
+  "site_name": "VERCUL Business",
+  "home": "Accueil",
+  "features": "Fonctionnalités",
+  "process": "Processus",
+  "testimonials": "Témoignages",
+  "faq": "FAQ",
+  "apply_now": "Postuler maintenant",
+  "track_application": "Suivre la demande",
+  "admin_login": "Connexion administrateur",
+  "contact_us": "Nous contacter",
+  
+  "hero_title": "Obtenez votre compte VERCUL Business",
+  "hero_subtitle": "Plus 500€ de bonus de bienvenue",
+  "hero_description": "Rejoignez des milliers d'entreprises européennes qui utilisent VERCUL",
+  
+  "why_choose": "Pourquoi choisir VERCUL Business?",
+  "multi_currency": "Comptes multi-devises",
+  "multi_currency_desc": "Détenez et gérez plusieurs devises avec des taux de change compétitifs",
+  "instant_transfers": "Virements instantanés",
+  "instant_transfers_desc": "Paiements nationaux et internationaux ultra-rapides",
+  "real_time_analytics": "Analyses en temps réel",
+  "real_time_analytics_desc": "Suivez les dépenses et gérez la trésorerie avec des outils puissants",
+  "bank_security": "Sécurité bancaire",
+  "bank_security_desc": "Vos fonds sont protégés par des mesures de sécurité avancées",
+  
+  "application_process": "Processus de candidature simple",
+  "step_1_title": "Soumettre la demande",
+  "step_1_desc": "Remplissez le formulaire en ligne avec les détails de votre entreprise",
+  "step_2_title": "Révision des documents",
+  "step_2_desc": "Notre équipe examine votre demande sous 24-48 heures",
+  "step_3_title": "Être approuvé",
+  "step_3_desc": "Recevez les détails de votre compte et le bonus de 500€",
+  
+  "what_clients_say": "Ce que disent nos clients",
+  "testimonial_1": "VERCUL a transformé notre gestion des paiements internationaux. La plateforme est intuitive et le support exceptionnel.",
+  "testimonial_1_author": "Sarah M., PDG d'une startup technologique",
+  "testimonial_2": "Meilleure solution bancaire pour entreprises que nous ayons utilisée. La fonctionnalité multi-devises nous a fait économiser des milliers en frais.",
+  "testimonial_2_author": "James K., Directeur import/export",
+  
+  "apply_business_account": "Demande de compte professionnel",
+  "company_information": "Informations sur l'entreprise",
+  "company_name": "Nom de l'entreprise",
+  "registration_number": "Numéro d'enregistrement",
+  "country": "Pays",
+  "select_country": "Sélectionner le pays",
+  "business_address": "Adresse professionnelle",
+  "city": "Ville",
+  "postal_code": "Code postal",
+  
+  "applicant_information": "Informations sur le demandeur",
+  "full_name": "Nom complet",
+  "role_in_company": "Rôle dans l'entreprise",
+  "date_of_birth": "Date de naissance",
+  "email_address": "Adresse e-mail",
+  "phone_number": "Numéro de téléphone",
+  
+  "submit": "Soumettre la demande",
+  "cancel": "Annuler",
+  
+  "copyright": "© {YEAR} VERCUL HOLDINGS LTD. Tous droits réservés."
+}

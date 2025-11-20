@@ -1,0 +1,48 @@
+{
+  "site_name": "VERCUL Business",
+  "home": "Startseite",
+  "features": "Funktionen",
+  "process": "Prozess",
+  "testimonials": "Erfahrungsberichte",
+  "faq": "FAQ",
+  "apply_now": "Jetzt bewerben",
+  "track_application": "Antrag verfolgen",
+  "admin_login": "Admin-Anmeldung",
+  "contact_us": "Kontaktieren Sie uns",
+  
+  "hero_title": "Holen Sie sich Ihr VERCUL Business-Konto",
+  "hero_subtitle": "Plus 500€ Willkommensbonus",
+  "hero_description": "Schließen Sie sich Tausenden europäischer Unternehmen an, die mit VERCUL arbeiten",
+  
+  "why_choose": "Warum VERCUL Business wählen?",
+  "multi_currency": "Mehrwährungskonten",
+  "multi_currency_desc": "Halten und verwalten Sie mehrere Währungen mit wettbewerbsfähigen Wechselkursen",
+  "instant_transfers": "Sofortüberweisungen",
+  "instant_transfers_desc": "Blitzschnelle nationale und internationale Zahlungen",
+  "real_time_analytics": "Echtzeit-Analysen",
+  "real_time_analytics_desc": "Verfolgen Sie Ausgaben und verwalten Sie den Cashflow mit leistungsstarken Tools",
+  "bank_security": "Banksicherheit",
+  "bank_security_desc": "Ihr Geld ist durch fortschrittliche Sicherheitsmaßnahmen geschützt",
+  
+  "apply_business_account": "Geschäftskonto-Antrag",
+  "company_information": "Unternehmensinformationen",
+  "company_name": "Firmenname",
+  "registration_number": "Registrierungsnummer",
+  "country": "Land",
+  "select_country": "Land auswählen",
+  "business_address": "Geschäftsadresse",
+  "city": "Stadt",
+  "postal_code": "Postleitzahl",
+  
+  "applicant_information": "Antragstellerinformationen",
+  "full_name": "Vollständiger Name",
+  "role_in_company": "Rolle im Unternehmen",
+  "date_of_birth": "Geburtsdatum",
+  "email_address": "E-Mail-Adresse",
+  "phone_number": "Telefonnummer",
+  
+  "submit": "Antrag einreichen",
+  "cancel": "Abbrechen",
+  
+  "copyright": "© {YEAR} VERCUL HOLDINGS LTD. Alle Rechte vorbehalten."
+}

@@ -1,0 +1,48 @@
+{
+  "site_name": "VERCUL Business",
+  "home": "Inicio",
+  "features": "Características",
+  "process": "Proceso",
+  "testimonials": "Testimonios",
+  "faq": "Preguntas frecuentes",
+  "apply_now": "Aplicar ahora",
+  "track_application": "Rastrear solicitud",
+  "admin_login": "Inicio de sesión de administrador",
+  "contact_us": "Contáctenos",
+  
+  "hero_title": "Obtenga su cuenta VERCUL Business",
+  "hero_subtitle": "Más 500€ de bono de bienvenida",
+  "hero_description": "Únase a miles de empresas europeas que operan con VERCUL",
+  
+  "why_choose": "¿Por qué elegir VERCUL Business?",
+  "multi_currency": "Cuentas multidivisa",
+  "multi_currency_desc": "Mantenga y gestione múltiples monedas con tipos de cambio competitivos",
+  "instant_transfers": "Transferencias instantáneas",
+  "instant_transfers_desc": "Pagos nacionales e internacionales ultrarrápidos",
+  "real_time_analytics": "Análisis en tiempo real",
+  "real_time_analytics_desc": "Rastree gastos y gestione el flujo de caja con herramientas potentes",
+  "bank_security": "Seguridad bancaria",
+  "bank_security_desc": "Sus fondos están protegidos con medidas de seguridad avanzadas",
+  
+  "apply_business_account": "Solicitud de cuenta empresarial",
+  "company_information": "Información de la empresa",
+  "company_name": "Nombre de la empresa",
+  "registration_number": "Número de registro",
+  "country": "País",
+  "select_country": "Seleccionar país",
+  "business_address": "Dirección comercial",
+  "city": "Ciudad",
+  "postal_code": "Código postal",
+  
+  "applicant_information": "Información del solicitante",
+  "full_name": "Nombre completo",
+  "role_in_company": "Rol en la empresa",
+  "date_of_birth": "Fecha de nacimiento",
+  "email_address": "Dirección de correo electrónico",
+  "phone_number": "Número de teléfono",
+  
+  "submit": "Enviar solicitud",
+  "cancel": "Cancelar",
+  
+  "copyright": "© {YEAR} VERCUL HOLDINGS LTD. Todos los derechos reservados."
+}
