@@ -1,0 +1,30 @@
+# Composer
+/vendor/
+composer.lock
+
+# Environment
+.env
+.env.local
+
+# Logs
+*.log
+/logs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.cache
+
+# Sensitive files
+config/database.local.php
