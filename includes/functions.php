@@ -3,6 +3,8 @@
  * Helper Functions
  */
 
+require_once __DIR__ . '/Language.php';
+
 /**
  * Require admin authentication
  */
@@ -45,4 +47,25 @@ function format_date($date, $format = 'F j, Y') {
  */
 function get_status_class($status) {
     return 'status-' . strtolower(str_replace(' ', '-', $status));
+}
+
+/**
+ * Get current language
+ */
+function getCurrentLanguage() {
+    return Language::getInstance()->getCurrentLanguage();
+}
+
+/**
+ * Get available languages
+ */
+function getAvailableLanguages() {
+    return Language::getInstance()->getAvailableLanguages();
+}
+
+/**
+ * Set language
+ */
+function setLanguage($lang) {
+    return Language::getInstance()->setLanguage($lang);
 }
