@@ -1,17 +1,23 @@
 <?php
 /**
  * Database Configuration
+ * 
+ * IMPORTANT: Update these credentials with your Hostinger database details
  */
 
 class Database {
     private static $instance = null;
     private $connection;
     
-    // Database credentials
+    // ========================================
+    // UPDATE THESE WITH YOUR CREDENTIALS
+    // ========================================
     private $host = 'localhost';
-    private $database = 'vercul_business';
-    private $username = 'root';
-    private $password = '';
+    private $database = 'u342028963_vercul_busines';  // Your Hostinger database name
+    private $username = 'u342028963_vercul_admin';    // Your Hostinger database username
+    private $password = '';  // ADD YOUR DATABASE PASSWORD HERE!
+    // ========================================
+    
     private $charset = 'utf8mb4';
     
     private function __construct() {
@@ -25,7 +31,9 @@ class Database {
             
             $this->connection = new PDO($dsn, $this->username, $this->password, $options);
         } catch (PDOException $e) {
-            throw new Exception("Database connection failed: " . $e->getMessage());
+            // Log error but don't expose details
+            error_log("Database connection failed: " . $e->getMessage());
+            throw new Exception("Database connection failed. Please check configuration.");
         }
     }
     
@@ -40,10 +48,8 @@ class Database {
         return $this->connection;
     }
     
-    // Prevent cloning
     private function __clone() {}
     
-    // Prevent unserialization
     public function __wakeup() {
         throw new Exception("Cannot unserialize singleton");
     }
